@@ -1,5 +1,6 @@
 
-<img width="250" align="right" src="[https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif](https://giphy.com/embed/wpBCnSSBCbh3q)">
+<img width="250" align="right" src="https://giphy.com/embed/wpBCnSSBCbh3q">
+
 
 
 <h3 align="center">
