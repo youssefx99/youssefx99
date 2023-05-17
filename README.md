@@ -15,8 +15,8 @@
 - 💬 Ask me about my experience with Python, Data analysis or anything related to Data Science.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my contact links to see some of the projects I've worked on.
-- <p> MY Slogan IS "Never stop learnnig & never give up"</p>
-- 
+- <p> MY Slogan is "Never stop learnnig & never give up"</p>
+<br>
 
 <img width="250" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY0NTI5YjE2MGJjMDIzMDk1NTAwNDg1OWY5NjE5YzZkZjc5MGU2MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif"  width="250" height="250"></img>
 
