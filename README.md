@@ -17,7 +17,7 @@
 - 👨‍💻 Check out my contact links to see some of the projects I've worked on.
 - <p> MY Slogan IS "Never stop learnnig & never give up"</p>
 
-<img width="250" align="right" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u"  width="250" height="250"></img>
+<img width="250" align="right" src=""  width="250" height="250"></img>
 
 ### Connect with Me :
 
