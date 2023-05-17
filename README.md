@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Maybe%20We%20Are%20Not%20Good%20Enought%20BUT...;WE%20NEVER%20Stop%20LEARNING&font=Fira%20Code&center=true&width=490&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<iframe width="250" align="right" src="https://giphy.com/embed/cIyFkXsHAkmA6vwNgj"  width="250" height="250"></iframe>
+<img width="250" align="right" src="https://giphy.com/embed/cIyFkXsHAkmA6vwNgj"  width="250" height="250"></img>
 
 - 🏢 I'm a Data Analysist and web development.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
@@ -17,7 +17,7 @@
 - 👨‍💻 Check out my contact links to see some of the projects I've worked on.
 - <p> MY Slogan IS "Never stop learnnig & never give up"</p>
 
-<iframe width="250" align="right" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u"  width="250" height="250"></iframe>
+<img width="250" align="right" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u"  width="250" height="250"></img>
 
 ### Connect with Me :
 
