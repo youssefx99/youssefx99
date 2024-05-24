@@ -9,7 +9,7 @@
 
 <img width="250" align="right" src="https://media.giphy.com/media/cIyFkXsHAkmA6vwNgj/giphy.gif"  width="250" height="250"></img>
 
-- 🏢 I'm a Data Analysist and web development.
+- 🏢 I'm a Back-End Developer and Data analysis Student.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - 💬 Ask me about my experience with Python, Data analysis or anything related to Data Science.
