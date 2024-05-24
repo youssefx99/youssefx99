@@ -7,8 +7,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Maybe%20We%20Are%20Not%20Good%20Enought%20BUT...;WE%20NEVER%20Stop%20LEARNING&font=Fira%20Code&center=true&width=490&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<img width="250" align="right" src="https://media.giphy.com/media/cIyFkXsHAkmA6vwNgj/giphy.gif"  width="250" height="250"></img>
-
 - 🏢 I'm a Back-End Developer and Data analysis Student.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
